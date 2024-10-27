@@ -962,3 +962,8 @@
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
   ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+- name: devcontainer features by kadykov
+  maintainer: Aleksandr Kadykov
+  contact: https://github.com/kadykov/devcontainer-features/issues
+  repository: https://github.com/kadykov/devcontainer-features
+  ociReference: ghcr.io/kadykov/devcontainer-features 
